@@ -1,0 +1,115 @@
+[
+  {
+    "WarName": "Yüz Yýl Savaþlarý",
+    "WarHistory": "Savaþ Tarihi: 1337 - 1453",
+    "Information": "Yüz Yýl Savaþlarý, Ýngiltere ile Fransa arasýnda süren uzun bir savaþtýr. Asýl nedenleri arasýnda toprak anlaþmazlýklarý ve taht kavgalarý yer alýr.",
+    "Countries": "Ülkeler: Ýngiltere, Fransa",
+    "Winner": "Kazanan: Yok",
+    "ImageUrl": "https://raw.githubusercontent.com/Cann2000/HistoryBookData/main/Pictures/Y%C3%BCzY%C4%B1lSava%C5%9Flar%C4%B1.jpg"
+  },
+  {
+    "WarName": "Kurtuluþ Savaþý",
+    "WarHistory": "Savaþ Tarihi: 1919 - 1923",
+    "Information": "Türk Kurtuluþ Savaþý, Türk milletinin baðýmsýzlýðýný kazanmak için verdiði ulusal mücadeledir. Osmanlý Ýmparatorluðu'nun son dönemindeki yenilgilerin ardýndan baþladý ve Türkiye Cumhuriyeti'nin kuruluþu ile sonuçlandý.",
+    "Countries": "Ülkeler: Türkiye, Ýngiltere, Fransa, Ýtalya, Yunanistan",
+    "Winner": "Kazanan: Türkiye",
+    "ImageUrl": "https://raw.githubusercontent.com/Cann2000/HistoryBookData/main/Pictures/Kurtulu%C5%9FSava%C5%9F%C4%B1.jpg"
+  },
+  {
+    "WarName": "Çanakkale Savaþý",
+    "WarHistory": "Savaþ Tarihi: 1915",
+    "Information": "Çanakkale Savaþý, Birinci Dünya Savaþý sýrasýnda Çanakkale Boðazý'nda gerçekleþti. Osmanlý Ýmparatorluðu ve Ýtilaf Devletleri arasýnda meydana geldi.",
+    "Countries": "Ülkeler: Osmanlý Ýmparatorluðu, Ýngiltere, Fransa, Avustralya, Yeni Zelanda",
+    "Winner": "Kazanan: Osmanlý Ýmparatorluðu",
+    "ImageUrl": "https://raw.githubusercontent.com/Cann2000/HistoryBookData/main/Pictures/%C3%87anakkale.png"
+  },
+  {
+    "WarName": "Baðýmsýzlýk savaþý(93 Harbi)",
+    "WarHistory": "Savaþ Tarihi: 1877 - 1878",
+    "Information": "Baðýmsýzlýk Savaþý, Osmanlý Ýmparatorluðu ve Rus Ýmparatorluðu arasýnda gerçekleþti ve 93 Harbi olarak da bilinir.",
+    "Countries": "Ülkeler: Osmanlý Ýmparatorluðu, Rus Ýmparatorluðu",
+    "Winner": "Kazanan: Rus Ýmparatorluðu",
+    "ImageUrl": "https://raw.githubusercontent.com/Cann2000/HistoryBookData/main/Pictures/93Harbi.jpg"
+  },
+  {
+    "WarName": "Balkan Savaþlarý",
+    "WarHistory": "Savaþ Tarihi: 1912 - 1913",
+    "Information": "Balkan Savaþlarý, Osmanlý Ýmparatorluðu ile Balkan devletleri arasýnda gerçekleþti. Ýkinci Balkan Savaþý ise Balkan devletleri arasýnda yaþandý.",
+    "Countries": "Ülkeler: Osmanlý Ýmparatorluðu, Sýrbistan, Karadað, Yunanistan, Bulgaristan",
+    "Winner": "Kazanan: Balkan Devletleri",
+    "ImageUrl": "https://raw.githubusercontent.com/Cann2000/HistoryBookData/main/Pictures/BalkanSava%C5%9F%C4%B1.png"
+  },
+  {
+    "WarName": "Malazgirt Meydan Muharebesi",
+    "WarHistory": "Savaþ Tarihi: 1071",
+    "Information": "Malazgirt Meydan Muharebesi, Selçuklu Sultaný Alp Arslan ve Bizans Ýmparatoru IV. Romanos Diogenes arasýnda gerçekleþti ve Türklerin Anadolu'ya yayýlmasýný hýzlandýrdý.",
+    "Countries": "Ülkeler: Selçuklu Sultanlýðý, Bizans Ýmparatorluðu",
+    "Winner": "Kazanan: Selçuklu Sultanlýðý",
+    "ImageUrl": "https://raw.githubusercontent.com/Cann2000/HistoryBookData/main/Pictures/Malazgirt.jpg"
+  },
+  {
+    "WarName": "Kut'ül Amare Meydan Muharebesi",
+    "WarHistory": "Savaþ Tarihi: 1916 - 1917",
+    "Information": "Kut'ül Amare Meydan Muharebesi, Birinci Dünya Savaþý sýrasýnda Osmanlý Ýmparatorluðu ve Birleþik Krallýk arasýnda gerçekleþti.",
+    "Countries": "Ülkeler: Osmanlý Ýmparatorluðu, Birleþik Krallýk",
+    "Winner": "Kazanan: Osmanlý Ýmparatorluðu",
+    "ImageUrl": "https://raw.githubusercontent.com/Cann2000/HistoryBookData/main/Pictures/Kut%C3%BCl_Amare.jpg"
+  },
+  {
+    "SavasAdi": "Sakarya Meydan Muharebesi",
+    "WarHistory": "Savaþ Tarihi: 1921",
+    "Information": "Sakarya Meydan Muharebesi, Türk Kurtuluþ Savaþý sýrasýnda gerçekleþti ve Türk milletinin baðýmsýzlýðýný kazanma mücadelesinin önemli bir dönüm noktasýdýr.",
+    "Countries": "Ülkeler: Türkiye, Yunanistan",
+    "Winner": "Kazanan: Türkiye",
+    "ImageUrl": "https://raw.githubusercontent.com/Cann2000/HistoryBookData/main/Pictures/SakaryaMeydanMuharebesi.jpg"
+  },
+  {
+    "SavasAdi": "Kütahya-Eskiþehir Muharebeleri",
+    "WarHistory": "Savaþ Tarihi: 1921",
+    "Information": "Kütahya-Eskiþehir Muharebeleri, Türk Kurtuluþ Savaþý sýrasýnda gerçekleþti ve Türk ordusunun baþarýlý bir þekilde düþman kuvvetlerini püskürtmesini temsil eder.",
+    "Countries": "Ülkeler: Türkiye, Yunanistan",
+    "Winner": "Kazanan: Türkiye",
+    "ImageUrl": "https://raw.githubusercontent.com/Cann2000/HistoryBookData/main/Pictures/k%C3%BCtahya-eski%C5%9Fehir.jpg"
+  },
+  {
+    "SavasAdi": "Ýnebahtý Deniz Muharebesi",
+    "WarHistory": "Savaþ Tarihi: 1571",
+    "Information": "Lepanto Deniz Muharebesi, Osmanlý Ýmparatorluðu ile Haçlý Donanmasý arasýnda gerçekleþti ve Osmanlý donanmasý için önemli bir yenilgiyi temsil eder.",
+    "Countries": "Ülkeler: Osmanlý Ýmparatorluðu, Haçlý Donanmasý",
+    "Winner": "Kazanan: Haçlý Donanmasý",
+    "ImageUrl": "https://raw.githubusercontent.com/Cann2000/HistoryBookData/main/Pictures/%C4%B0nebaht%C4%B1.jpg"
+  },
+  {
+    "SavasAdi": "Mohaç Meydan Muharebesi",
+    "WarHistory": "Savaþ Tarihi: 1526",
+    "Information": "Mohaç Meydan Muharebesi, Osmanlý Ýmparatorluðu ile Macar Krallýðý arasýnda gerçekleþti ve Osmanlý zaferiyle sonuçlandý.",
+    "Countries": "Ülkeler: Osmanlý Ýmparatorluðu, Macar Krallýðý",
+    "Winner": "Kazanan: Osmanlý Ýmparatorluðu",
+    "ImageUrl": "https://raw.githubusercontent.com/Cann2000/HistoryBookData/main/Pictures/Moha%C3%A7MeydanMuharebesi.jpg"
+  },
+  {
+    "SavasAdi": "Çaldýran Meydan Muharebesi",
+    "WarHistory": "Savaþ Tarihi: 1514",
+    "Information": "Çaldýran Meydan Muharebesi, Osmanlý Ýmparatorluðu ile Safevî Ýmparatorluðu arasýnda gerçekleþti ve Osmanlý zaferiyle sonuçlandý.",
+    "Countries": "Ülkeler: Osmanlý Ýmparatorluðu, Safevî Ýmparatorluðu",
+    "Winner": "Kazanan: Osmanlý Ýmparatorluðu",
+    "ImageUrl": "https://raw.githubusercontent.com/Cann2000/HistoryBookData/main/Pictures/%C3%87ald%C4%B1ran.jpg"
+  },
+  {
+    "WarName": "Preveze Deniz Muharebesi",
+    "WarHistory": "Savaþ Tarihi: 1538",
+    "Information": "Preveze Deniz Muharebesi, Osmanlý Ýmparatorluðu ile Haçlý Donanmasý arasýnda gerçekleþti ve Osmanlý zaferiyle sonuçlandý.",
+    "Countries": "Ülkeler: Osmanlý Ýmparatorluðu, Haçlý Donanmasý",
+    "Winner": "Kazanan: Osmanlý Ýmparatorluðu",
+    "ImageUrl": "https://raw.githubusercontent.com/Cann2000/HistoryBookData/main/Pictures/preveze.jpg"
+  },
+  {
+    "WarName": "Anadolu Selçuklu - Haçlý Savaþlarý",
+    "WarHistory": "Savaþ Tarihi: 11. ve 13. yüzyýllar",
+    "Information": "Anadolu Selçuklu - Haçlý Savaþlarý, Anadolu Selçuklu Sultanlýðý ile Haçlý devletleri arasýnda gerçekleþti ve Anadolu Selçuklu Sultanlýðý'nýn baðýmsýzlýðýný korumasýný temsil eder.",
+    "Countries": "Ülkeler: Anadolu Selçuklu Sultanlýðý, Haçlý Devletleri",
+    "Winner": "Kazanan: Anadolu Selçuklu Sultanlýðý",
+    "ImageUrl": "https://raw.githubusercontent.com/Cann2000/HistoryBookData/main/Pictures/AnadoluSel%C3%A7ukluHa%C3%A7l%C4%B1.jpg"
+  }
+]
+
