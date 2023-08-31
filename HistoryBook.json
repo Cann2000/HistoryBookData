@@ -1,115 +1,114 @@
 [
   {
-    "WarName": "Yüz Yýl Savaþlarý",
-    "WarHistory": "Savaþ Tarihi: 1337 - 1453",
-    "Information": "Yüz Yýl Savaþlarý, Ýngiltere ile Fransa arasýnda süren uzun bir savaþtýr. Asýl nedenleri arasýnda toprak anlaþmazlýklarý ve taht kavgalarý yer alýr.",
-    "Countries": "Ülkeler: Ýngiltere, Fransa",
-    "Winner": "Kazanan: Yok",
-    "ImageUrl": "https://raw.githubusercontent.com/Cann2000/HistoryBookData/main/Pictures/Y%C3%BCzY%C4%B1lSava%C5%9Flar%C4%B1.jpg"
+    "WarName": "Hundred Years' War",
+    "WarHistory": "War History: 1337 - 1453",
+    "Information": "The Hundred Years' War was a long-lasting conflict between England and France. Its main causes included territorial disputes and disputes over the throne.",
+    "Countries": "Countries: England, France",
+    "Winner": "Winner: None",
+    "ImageUrl": "https://raw.githubusercontent.com/Cann2000/HistoryBookData/main/Pictures/HundredYearsWar.jpg"
   },
   {
-    "WarName": "Kurtuluþ Savaþý",
-    "WarHistory": "Savaþ Tarihi: 1919 - 1923",
-    "Information": "Türk Kurtuluþ Savaþý, Türk milletinin baðýmsýzlýðýný kazanmak için verdiði ulusal mücadeledir. Osmanlý Ýmparatorluðu'nun son dönemindeki yenilgilerin ardýndan baþladý ve Türkiye Cumhuriyeti'nin kuruluþu ile sonuçlandý.",
-    "Countries": "Ülkeler: Türkiye, Ýngiltere, Fransa, Ýtalya, Yunanistan",
-    "Winner": "Kazanan: Türkiye",
-    "ImageUrl": "https://raw.githubusercontent.com/Cann2000/HistoryBookData/main/Pictures/Kurtulu%C5%9FSava%C5%9F%C4%B1.jpg"
+    "WarName": "Turkish War of Independence",
+    "WarHistory": "War History: 1919 - 1923",
+    "Information": "The Turkish War of Independence was a national struggle by the Turkish nation to achieve independence. It began after the defeats of the Ottoman Empire and culminated in the establishment of the Republic of Turkey.",
+    "Countries": "Countries: Turkey, England, France, Italy, Greece",
+    "Winner": "Winner: Turkey",
+    "ImageUrl": "https://raw.githubusercontent.com/Cann2000/HistoryBookData/main/Pictures/TurkishWarofIndependence.jpg"
   },
   {
-    "WarName": "Çanakkale Savaþý",
-    "WarHistory": "Savaþ Tarihi: 1915",
-    "Information": "Çanakkale Savaþý, Birinci Dünya Savaþý sýrasýnda Çanakkale Boðazý'nda gerçekleþti. Osmanlý Ýmparatorluðu ve Ýtilaf Devletleri arasýnda meydana geldi.",
-    "Countries": "Ülkeler: Osmanlý Ýmparatorluðu, Ýngiltere, Fransa, Avustralya, Yeni Zelanda",
-    "Winner": "Kazanan: Osmanlý Ýmparatorluðu",
-    "ImageUrl": "https://raw.githubusercontent.com/Cann2000/HistoryBookData/main/Pictures/%C3%87anakkale.png"
+    "WarName": "Gallipoli Campaign",
+    "WarHistory": "War History: 1915",
+    "Information": "The Gallipoli Campaign took place during World War I in the Dardanelles Strait. It involved the Ottoman Empire and the Allied Powers, mainly England, France, Australia, and New Zealand.",
+    "Countries": "Countries: Ottoman Empire, England, France, Australia, New Zealand",
+    "Winner": "Winner: Ottoman Empire",
+    "ImageUrl": "https://raw.githubusercontent.com/Cann2000/HistoryBookData/main/Pictures/GallipoliCampaign.png"
   },
   {
-    "WarName": "Baðýmsýzlýk savaþý(93 Harbi)",
-    "WarHistory": "Savaþ Tarihi: 1877 - 1878",
-    "Information": "Baðýmsýzlýk Savaþý, Osmanlý Ýmparatorluðu ve Rus Ýmparatorluðu arasýnda gerçekleþti ve 93 Harbi olarak da bilinir.",
-    "Countries": "Ülkeler: Osmanlý Ýmparatorluðu, Rus Ýmparatorluðu",
-    "Winner": "Kazanan: Rus Ýmparatorluðu",
-    "ImageUrl": "https://raw.githubusercontent.com/Cann2000/HistoryBookData/main/Pictures/93Harbi.jpg"
+    "WarName": "Russo-Turkish War (1877-1878)",
+    "WarHistory": "War History: 1877 - 1878",
+    "Information": "The Russo-Turkish War, also known as the 93 War, occurred between the Ottoman Empire and the Russian Empire. It is known as the 93 War due to its starting year.",
+    "Countries": "Countries: Ottoman Empire, Russian Empire",
+    "Winner": "Winner: Russian Empire",
+    "ImageUrl": "https://raw.githubusercontent.com/Cann2000/HistoryBookData/main/Pictures/RussoTurkishWar.jpg"
   },
   {
-    "WarName": "Balkan Savaþlarý",
-    "WarHistory": "Savaþ Tarihi: 1912 - 1913",
-    "Information": "Balkan Savaþlarý, Osmanlý Ýmparatorluðu ile Balkan devletleri arasýnda gerçekleþti. Ýkinci Balkan Savaþý ise Balkan devletleri arasýnda yaþandý.",
-    "Countries": "Ülkeler: Osmanlý Ýmparatorluðu, Sýrbistan, Karadað, Yunanistan, Bulgaristan",
-    "Winner": "Kazanan: Balkan Devletleri",
-    "ImageUrl": "https://raw.githubusercontent.com/Cann2000/HistoryBookData/main/Pictures/BalkanSava%C5%9F%C4%B1.png"
+    "WarName": "Balkan Wars",
+    "WarHistory": "War History: 1912 - 1913",
+    "Information": "The Balkan Wars took place between the Ottoman Empire and the Balkan states. The Second Balkan War involved conflicts between the Balkan states themselves.",
+    "Countries": "Countries: Ottoman Empire, Serbia, Montenegro, Greece, Bulgaria",
+    "Winner": "Winner: Balkan States",
+    "ImageUrl": "https://raw.githubusercontent.com/Cann2000/HistoryBookData/main/Pictures/BalkanWars.png"
   },
   {
-    "WarName": "Malazgirt Meydan Muharebesi",
-    "WarHistory": "Savaþ Tarihi: 1071",
-    "Information": "Malazgirt Meydan Muharebesi, Selçuklu Sultaný Alp Arslan ve Bizans Ýmparatoru IV. Romanos Diogenes arasýnda gerçekleþti ve Türklerin Anadolu'ya yayýlmasýný hýzlandýrdý.",
-    "Countries": "Ülkeler: Selçuklu Sultanlýðý, Bizans Ýmparatorluðu",
-    "Winner": "Kazanan: Selçuklu Sultanlýðý",
-    "ImageUrl": "https://raw.githubusercontent.com/Cann2000/HistoryBookData/main/Pictures/Malazgirt.jpg"
+    "WarName": "Battle of Manzikert",
+    "WarHistory": "War History: 1071",
+    "Information": "The Battle of Manzikert occurred between the Seljuk Sultanate of Rum and the Byzantine Empire. It expedited the Turkish migration into Anatolia.",
+    "Countries": "Countries: Seljuk Sultanate of Rum, Byzantine Empire",
+    "Winner": "Winner: Seljuk Sultanate of Rum",
+    "ImageUrl": "https://raw.githubusercontent.com/Cann2000/HistoryBookData/main/Pictures/BattleofManzikert.jpg"
   },
   {
-    "WarName": "Kut'ül Amare Meydan Muharebesi",
-    "WarHistory": "Savaþ Tarihi: 1916 - 1917",
-    "Information": "Kut'ül Amare Meydan Muharebesi, Birinci Dünya Savaþý sýrasýnda Osmanlý Ýmparatorluðu ve Birleþik Krallýk arasýnda gerçekleþti.",
-    "Countries": "Ülkeler: Osmanlý Ýmparatorluðu, Birleþik Krallýk",
-    "Winner": "Kazanan: Osmanlý Ýmparatorluðu",
-    "ImageUrl": "https://raw.githubusercontent.com/Cann2000/HistoryBookData/main/Pictures/Kut%C3%BCl_Amare.jpg"
+    "WarName": "Siege of Kut",
+    "WarHistory": "War History: 1916 - 1917",
+    "Information": "The Siege of Kut occurred during World War I between the Ottoman Empire and the United Kingdom.",
+    "Countries": "Countries: Ottoman Empire, United Kingdom",
+    "Winner": "Winner: Ottoman Empire",
+    "ImageUrl": "https://raw.githubusercontent.com/Cann2000/HistoryBookData/main/Pictures/SiegeofKut.jpg"
   },
   {
-    "SavasAdi": "Sakarya Meydan Muharebesi",
-    "WarHistory": "Savaþ Tarihi: 1921",
-    "Information": "Sakarya Meydan Muharebesi, Türk Kurtuluþ Savaþý sýrasýnda gerçekleþti ve Türk milletinin baðýmsýzlýðýný kazanma mücadelesinin önemli bir dönüm noktasýdýr.",
-    "Countries": "Ülkeler: Türkiye, Yunanistan",
-    "Winner": "Kazanan: Türkiye",
-    "ImageUrl": "https://raw.githubusercontent.com/Cann2000/HistoryBookData/main/Pictures/SakaryaMeydanMuharebesi.jpg"
+    "WarName": "Battle of Sakarya",
+    "WarHistory": "War History: 1921",
+    "Information": "The Battle of Sakarya took place during the Turkish War of Independence and marked a crucial turning point in Turkey's struggle for independence.",
+    "Countries": "Countries: Turkey, Greece",
+    "Winner": "Winner: Turkey",
+    "ImageUrl": "https://raw.githubusercontent.com/Cann2000/HistoryBookData/main/Pictures/BattleofSakarya.jpg"
   },
   {
-    "SavasAdi": "Kütahya-Eskiþehir Muharebeleri",
-    "WarHistory": "Savaþ Tarihi: 1921",
-    "Information": "Kütahya-Eskiþehir Muharebeleri, Türk Kurtuluþ Savaþý sýrasýnda gerçekleþti ve Türk ordusunun baþarýlý bir þekilde düþman kuvvetlerini püskürtmesini temsil eder.",
-    "Countries": "Ülkeler: Türkiye, Yunanistan",
-    "Winner": "Kazanan: Türkiye",
-    "ImageUrl": "https://raw.githubusercontent.com/Cann2000/HistoryBookData/main/Pictures/k%C3%BCtahya-eski%C5%9Fehir.jpg"
+    "WarName": "Battles of Kutahya-Eskisehir",
+    "WarHistory": "War History: 1921",
+    "Information": "The Battles of Kutahya-Eskisehir occurred during the Turkish War of Independence and represented the successful repulsion of enemy forces by the Turkish army.",
+    "Countries": "Countries: Turkey, Greece",
+    "Winner": "Winner: Turkey",
+    "ImageUrl": "https://raw.githubusercontent.com/Cann2000/HistoryBookData/main/Pictures/BattlesofKutahyaEskisehir.jpg"
   },
   {
-    "SavasAdi": "Ýnebahtý Deniz Muharebesi",
-    "WarHistory": "Savaþ Tarihi: 1571",
-    "Information": "Lepanto Deniz Muharebesi, Osmanlý Ýmparatorluðu ile Haçlý Donanmasý arasýnda gerçekleþti ve Osmanlý donanmasý için önemli bir yenilgiyi temsil eder.",
-    "Countries": "Ülkeler: Osmanlý Ýmparatorluðu, Haçlý Donanmasý",
-    "Winner": "Kazanan: Haçlý Donanmasý",
-    "ImageUrl": "https://raw.githubusercontent.com/Cann2000/HistoryBookData/main/Pictures/%C4%B0nebaht%C4%B1.jpg"
+    "WarName": "Battle of Lepanto",
+    "WarHistory": "War History: 1571",
+    "Information": "The Battle of Lepanto was a naval engagement between the Ottoman Empire and the Holy League, resulting in a significant defeat for the Ottoman navy.",
+    "Countries": "Countries: Ottoman Empire, Holy League",
+    "Winner": "Winner: Holy League",
+    "ImageUrl": "https://raw.githubusercontent.com/Cann2000/HistoryBookData/main/Pictures/BattleofLepanto.jpg"
   },
   {
-    "SavasAdi": "Mohaç Meydan Muharebesi",
-    "WarHistory": "Savaþ Tarihi: 1526",
-    "Information": "Mohaç Meydan Muharebesi, Osmanlý Ýmparatorluðu ile Macar Krallýðý arasýnda gerçekleþti ve Osmanlý zaferiyle sonuçlandý.",
-    "Countries": "Ülkeler: Osmanlý Ýmparatorluðu, Macar Krallýðý",
-    "Winner": "Kazanan: Osmanlý Ýmparatorluðu",
-    "ImageUrl": "https://raw.githubusercontent.com/Cann2000/HistoryBookData/main/Pictures/Moha%C3%A7MeydanMuharebesi.jpg"
+    "WarName": "Battle of Mohacs",
+    "WarHistory": "War History: 1526",
+    "Information": "The Battle of Mohacs took place between the Ottoman Empire and the Kingdom of Hungary, ending in an Ottoman victory.",
+    "Countries": "Countries: Ottoman Empire, Kingdom of Hungary",
+    "Winner": "Winner: Ottoman Empire",
+    "ImageUrl": "https://raw.githubusercontent.com/Cann2000/HistoryBookData/main/Pictures/BattleofMohacs.jpg"
   },
   {
-    "SavasAdi": "Çaldýran Meydan Muharebesi",
-    "WarHistory": "Savaþ Tarihi: 1514",
-    "Information": "Çaldýran Meydan Muharebesi, Osmanlý Ýmparatorluðu ile Safevî Ýmparatorluðu arasýnda gerçekleþti ve Osmanlý zaferiyle sonuçlandý.",
-    "Countries": "Ülkeler: Osmanlý Ýmparatorluðu, Safevî Ýmparatorluðu",
-    "Winner": "Kazanan: Osmanlý Ýmparatorluðu",
-    "ImageUrl": "https://raw.githubusercontent.com/Cann2000/HistoryBookData/main/Pictures/%C3%87ald%C4%B1ran.jpg"
+    "WarName": "Battle of Chaldiran",
+    "WarHistory": "War History: 1514",
+    "Information": "The Battle of Chaldiran occurred between the Ottoman Empire and the Safavid Empire, resulting in an Ottoman victory.",
+    "Countries": "Countries: Ottoman Empire, Safavid Empire",
+    "Winner": "Winner: Ottoman Empire",
+    "ImageUrl": "https://raw.githubusercontent.com/Cann2000/HistoryBookData/main/Pictures/BattleofChaldiran.jpg"
   },
   {
-    "WarName": "Preveze Deniz Muharebesi",
-    "WarHistory": "Savaþ Tarihi: 1538",
-    "Information": "Preveze Deniz Muharebesi, Osmanlý Ýmparatorluðu ile Haçlý Donanmasý arasýnda gerçekleþti ve Osmanlý zaferiyle sonuçlandý.",
-    "Countries": "Ülkeler: Osmanlý Ýmparatorluðu, Haçlý Donanmasý",
-    "Winner": "Kazanan: Osmanlý Ýmparatorluðu",
-    "ImageUrl": "https://raw.githubusercontent.com/Cann2000/HistoryBookData/main/Pictures/preveze.jpg"
+    "WarName": "Battle of Preveza",
+    "WarHistory": "War History: 1538",
+    "Information": "The Battle of Preveza was a naval engagement between the Ottoman Empire and the Holy League, resulting in an Ottoman victory.",
+    "Countries": "Countries: Ottoman Empire, Holy League",
+    "Winner": "Winner: Ottoman Empire",
+    "ImageUrl": "https://raw.githubusercontent.com/Cann2000/HistoryBookData/main/Pictures/BattleofPreveza.jpg"
   },
   {
-    "WarName": "Anadolu Selçuklu - Haçlý Savaþlarý",
-    "WarHistory": "Savaþ Tarihi: 11. ve 13. yüzyýllar",
-    "Information": "Anadolu Selçuklu - Haçlý Savaþlarý, Anadolu Selçuklu Sultanlýðý ile Haçlý devletleri arasýnda gerçekleþti ve Anadolu Selçuklu Sultanlýðý'nýn baðýmsýzlýðýný korumasýný temsil eder.",
-    "Countries": "Ülkeler: Anadolu Selçuklu Sultanlýðý, Haçlý Devletleri",
-    "Winner": "Kazanan: Anadolu Selçuklu Sultanlýðý",
-    "ImageUrl": "https://raw.githubusercontent.com/Cann2000/HistoryBookData/main/Pictures/AnadoluSel%C3%A7ukluHa%C3%A7l%C4%B1.jpg"
+    "WarName": "Anatolian Seljuks - Crusader Wars",
+    "WarHistory": "War History: 11th and 13th centuries",
+    "Information": "The Anatolian Seljuks - Crusader Wars occurred between the Anatolian Seljuk Sultanate and Crusader states, representing the defense of Anatolian Seljuk Sultanate's independence.",
+    "Countries": "Countries: Anatolian Seljuk Sultanate, Crusader States",
+    "Winner": "Winner: Anatolian Seljuk Sultanate",
+    "ImageUrl": "https://raw.githubusercontent.com/Cann2000/HistoryBookData/main/Pictures/AnatolianSeljuksCrusaderWars.jpg"
   }
 ]
-
