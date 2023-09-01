@@ -1,13 +1,21 @@
 [
   {
+<<<<<<< HEAD
     "WarName": "Yüz Yýl Savaþlarý",
     "WarHistory": "1337 - 1453",
     "Information": "Yüz Yýl Savaþlarý, Ýngiltere ile Fransa arasýnda süren uzun bir savaþtýr. Asýl nedenleri arasýnda toprak anlaþmazlýklarý ve taht kavgalarý yer alýr.",
     "Countries": "Ülkeler: Ýngiltere, Fransa",
+=======
+    "WarName": "YÃ¼z YÄ±l SavaÅŸlarÄ±",
+    "WarHistory": "1337 - 1453",
+    "Information": "YÃ¼z YÄ±l SavaÅŸlarÄ±, Ä°ngiltere ile Fransa arasÄ±nda sÃ¼ren uzun bir savaÅŸtÄ±r. AsÄ±l nedenleri arasÄ±nda toprak anlaÅŸmazlÄ±klarÄ± ve taht kavgalarÄ± yer alÄ±r.",
+    "Countries": "Ãœlkeler: Ä°ngiltere, Fransa",
+>>>>>>> 1b71d366c9d329b8a2ed29b8cb8032720f9c39d9
     "Winner": "Kazanan: Yok",
     "ImageUrl": "https://raw.githubusercontent.com/Cann2000/HistoryBookData/main/Pictures/Y%C3%BCzY%C4%B1lSava%C5%9Flar%C4%B1.jpg"
   },
   {
+<<<<<<< HEAD
     "WarName": "Kurtuluþ Savaþý",
     "WarHistory": "1919 - 1923",
     "Information": "Türk Kurtuluþ Savaþý, Türk milletinin baðýmsýzlýðýný kazanmak için verdiði ulusal mücadeledir. Osmanlý Ýmparatorluðu'nun son dönemindeki yenilgilerin ardýndan baþladý ve Türkiye Cumhuriyeti'nin kuruluþu ile sonuçlandý.",
@@ -36,12 +44,43 @@
     "WarHistory": "1912 - 1913",
     "Information": "Balkan Savaþlarý, Osmanlý Ýmparatorluðu ile Balkan devletleri arasýnda gerçekleþti. Ýkinci Balkan Savaþý ise Balkan devletleri arasýnda yaþandý.",
     "Countries": "Ülkeler: Osmanlý Ýmparatorluðu, Sýrbistan, Karadað, Yunanistan, Bulgaristan",
+=======
+    "WarName": "KurtuluÅŸ SavaÅŸÄ±",
+    "WarHistory": "1919 - 1923",
+    "Information": "TÃ¼rk KurtuluÅŸ SavaÅŸÄ±, TÃ¼rk milletinin baÄŸÄ±msÄ±zlÄ±ÄŸÄ±nÄ± kazanmak iÃ§in verdiÄŸi ulusal mÃ¼cadeledir. OsmanlÄ± Ä°mparatorluÄŸu'nun son dÃ¶nemindeki yenilgilerin ardÄ±ndan baÅŸladÄ± ve TÃ¼rkiye Cumhuriyeti'nin kuruluÅŸu ile sonuÃ§landÄ±.",
+    "Countries": "Ãœlkeler: TÃ¼rkiye, Ä°ngiltere, Fransa, Ä°talya, Yunanistan",
+    "Winner": "Kazanan: TÃ¼rkiye",
+    "ImageUrl": "https://raw.githubusercontent.com/Cann2000/HistoryBookData/main/Pictures/Kurtulu%C5%9FSava%C5%9F%C4%B1.jpg"
+  },
+  {
+    "WarName": "Ã‡anakkale SavaÅŸÄ±",
+    "WarHistory": "1915",
+    "Information": "Ã‡anakkale SavaÅŸÄ±, Birinci DÃ¼nya SavaÅŸÄ± sÄ±rasÄ±nda Ã‡anakkale BoÄŸazÄ±'nda gerÃ§ekleÅŸti. OsmanlÄ± Ä°mparatorluÄŸu ve Ä°tilaf Devletleri arasÄ±nda meydana geldi.",
+    "Countries": "Ãœlkeler: OsmanlÄ± Ä°mparatorluÄŸu, Ä°ngiltere, Fransa, Avustralya, Yeni Zelanda",
+    "Winner": "Kazanan: OsmanlÄ± Ä°mparatorluÄŸu",
+    "ImageUrl": "https://raw.githubusercontent.com/Cann2000/HistoryBookData/main/Pictures/%C3%87anakkale.png"
+  },
+  {
+    "WarName": "a"
+    "WarHistory": "1877 - 1878",
+    "Information": "BaÄŸÄ±msÄ±zlÄ±k SavaÅŸÄ±, OsmanlÄ± Ä°mparatorluÄŸu ve Rus Ä°mparatorluÄŸu arasÄ±nda gerÃ§ekleÅŸti ve 93 Harbi olarak da bilinir.",
+    "Countries": "Ãœlkeler: OsmanlÄ± Ä°mparatorluÄŸu, Rus Ä°mparatorluÄŸu",
+    "Winner": "Kazanan: Rus Ä°mparatorluÄŸu",
+    "ImageUrl": "https://raw.githubusercontent.com/Cann2000/HistoryBookData/main/Pictures/93Harbi.jpg"
+  },
+  {
+    "WarName": "Balkan SavaÅŸlarÄ±",
+    "WarHistory": "1912 - 1913",
+    "Information": "Balkan SavaÅŸlarÄ±, OsmanlÄ± Ä°mparatorluÄŸu ile Balkan devletleri arasÄ±nda gerÃ§ekleÅŸti. Ä°kinci Balkan SavaÅŸÄ± ise Balkan devletleri arasÄ±nda yaÅŸandÄ±.",
+    "Countries": "Ãœlkeler: OsmanlÄ± Ä°mparatorluÄŸu, SÄ±rbistan, KaradaÄŸ, Yunanistan, Bulgaristan",
+>>>>>>> 1b71d366c9d329b8a2ed29b8cb8032720f9c39d9
     "Winner": "Kazanan: Balkan Devletleri",
     "ImageUrl": "https://raw.githubusercontent.com/Cann2000/HistoryBookData/main/Pictures/BalkanSava%C5%9F%C4%B1.png"
   },
   {
     "WarName": "Malazgirt Meydan Muharebesi",
     "WarHistory": "1071",
+<<<<<<< HEAD
     "Information": "Malazgirt Meydan Muharebesi, Selçuklu Sultaný Alp Arslan ve Bizans Ýmparatoru IV. Romanos Diogenes arasýnda gerçekleþti ve Türklerin Anadolu'ya yayýlmasýný hýzlandýrdý.",
     "Countries": "Ülkeler: Selçuklu Sultanlýðý, Bizans Ýmparatorluðu",
     "Winner": "Kazanan: Selçuklu Sultanlýðý",
@@ -53,11 +92,25 @@
     "Information": "Kut'ül Amare Meydan Muharebesi, Birinci Dünya Savaþý sýrasýnda Osmanlý Ýmparatorluðu ve Birleþik Krallýk arasýnda gerçekleþti.",
     "Countries": "Ülkeler: Osmanlý Ýmparatorluðu, Birleþik Krallýk",
     "Winner": "Kazanan: Osmanlý Ýmparatorluðu",
+=======
+    "Information": "Malazgirt Meydan Muharebesi, SelÃ§uklu SultanÄ± Alp Arslan ve Bizans Ä°mparatoru IV. Romanos Diogenes arasÄ±nda gerÃ§ekleÅŸti ve TÃ¼rklerin Anadolu'ya yayÄ±lmasÄ±nÄ± hÄ±zlandÄ±rdÄ±.",
+    "Countries": "Ãœlkeler: SelÃ§uklu SultanlÄ±ÄŸÄ±, Bizans Ä°mparatorluÄŸu",
+    "Winner": "Kazanan: SelÃ§uklu SultanlÄ±ÄŸÄ±",
+    "ImageUrl": "https://raw.githubusercontent.com/Cann2000/HistoryBookData/main/Pictures/Malazgirt.jpg"
+  },
+  {
+    "WarName": "Kut'Ã¼l Amare Meydan Muharebesi"
+    "WarHistory": "1916 - 1917",
+    "Information": "Kut'Ã¼l Amare Meydan Muharebesi, Birinci DÃ¼nya SavaÅŸÄ± sÄ±rasÄ±nda OsmanlÄ± Ä°mparatorluÄŸu ve BirleÅŸik KrallÄ±k arasÄ±nda gerÃ§ekleÅŸti.",
+    "Countries": "Ãœlkeler: OsmanlÄ± Ä°mparatorluÄŸu, BirleÅŸik KrallÄ±k",
+    "Winner": "Kazanan: OsmanlÄ± Ä°mparatorluÄŸu",
+>>>>>>> 1b71d366c9d329b8a2ed29b8cb8032720f9c39d9
     "ImageUrl": "https://raw.githubusercontent.com/Cann2000/HistoryBookData/main/Pictures/Kut%C3%BCl_Amare.jpg"
   },
   {
     "WarName": "Sakarya Meydan Muharebesi",
     "WarHistory": "1921",
+<<<<<<< HEAD
     "Information": "Sakarya Meydan Muharebesi, Türk Kurtuluþ Savaþý sýrasýnda gerçekleþti ve Türk milletinin baðýmsýzlýðýný kazanma mücadelesinin önemli bir dönüm noktasýdýr.",
     "Countries": "Ülkeler: Türkiye, Yunanistan",
     "Winner": "Kazanan: Türkiye",
@@ -93,11 +146,49 @@
     "Information": "Çaldýran Meydan Muharebesi, Osmanlý Ýmparatorluðu ile Safevî Ýmparatorluðu arasýnda gerçekleþti ve Osmanlý zaferiyle sonuçlandý.",
     "Countries": "Ülkeler: Osmanlý Ýmparatorluðu, Safevî Ýmparatorluðu",
     "Winner": "Kazanan: Osmanlý Ýmparatorluðu",
+=======
+    "Information": "Sakarya Meydan Muharebesi, TÃ¼rk KurtuluÅŸ SavaÅŸÄ± sÄ±rasÄ±nda gerÃ§ekleÅŸti ve TÃ¼rk milletinin baÄŸÄ±msÄ±zlÄ±ÄŸÄ±nÄ± kazanma mÃ¼cadelesinin Ã¶nemli bir dÃ¶nÃ¼m noktasÄ±dÄ±r.",
+    "Countries": "Ãœlkeler: TÃ¼rkiye, Yunanistan",
+    "Winner": "Kazanan: TÃ¼rkiye",
+    "ImageUrl": "https://raw.githubusercontent.com/Cann2000/HistoryBookData/main/Pictures/SakaryaMeydanMuharebesi.jpg"
+  },
+  {
+    "WarName": "KÃ¼tahya-EskiÅŸehir Muharebeleri",
+    "WarHistory": "1921",
+    "Information": "KÃ¼tahya-EskiÅŸehir Muharebeleri, TÃ¼rk KurtuluÅŸ SavaÅŸÄ± sÄ±rasÄ±nda gerÃ§ekleÅŸti ve TÃ¼rk ordusunun baÅŸarÄ±lÄ± bir ÅŸekilde dÃ¼ÅŸman kuvvetlerini pÃ¼skÃ¼rtmesini temsil eder.",
+    "Countries": "Ãœlkeler: TÃ¼rkiye, Yunanistan",
+    "Winner": "Kazanan: TÃ¼rkiye",
+    "ImageUrl": "https://raw.githubusercontent.com/Cann2000/HistoryBookData/main/Pictures/k%C3%BCtahya-eski%C5%9Fehir.jpg"
+  },
+  {
+    "WarName": "Ä°nebahtÄ± Deniz Muharebesi",
+    "WarHistory": "1571",
+    "Information": "Lepanto Deniz Muharebesi, OsmanlÄ± Ä°mparatorluÄŸu ile HaÃ§lÄ± DonanmasÄ± arasÄ±nda gerÃ§ekleÅŸti ve OsmanlÄ± donanmasÄ± iÃ§in Ã¶nemli bir yenilgiyi temsil eder.",
+    "Countries": "Ãœlkeler: OsmanlÄ± Ä°mparatorluÄŸu, HaÃ§lÄ± DonanmasÄ±",
+    "Winner": "Kazanan: HaÃ§lÄ± DonanmasÄ±",
+    "ImageUrl": "https://raw.githubusercontent.com/Cann2000/HistoryBookData/main/Pictures/%C4%B0nebaht%C4%B1.jpg"
+  },
+  {
+    "WarName": "MohaÃ§ Meydan Muharebesi",
+    "WarHistory": "1526",
+    "Information": "MohaÃ§ Meydan Muharebesi, OsmanlÄ± Ä°mparatorluÄŸu ile Macar KrallÄ±ÄŸÄ± arasÄ±nda gerÃ§ekleÅŸti ve OsmanlÄ± zaferiyle sonuÃ§landÄ±.",
+    "Countries": "Ãœlkeler: OsmanlÄ± Ä°mparatorluÄŸu, Macar KrallÄ±ÄŸÄ±",
+    "Winner": "Kazanan: OsmanlÄ± Ä°mparatorluÄŸu",
+    "ImageUrl": "https://raw.githubusercontent.com/Cann2000/HistoryBookData/main/Pictures/Moha%C3%A7MeydanMuharebesi.jpg"
+  },
+  {
+    "WarName": "Ã‡aldÄ±ran Meydan Muharebesi",
+    "WarHistory": "1514",
+    "Information": "Ã‡aldÄ±ran Meydan Muharebesi, OsmanlÄ± Ä°mparatorluÄŸu ile SafevÃ® Ä°mparatorluÄŸu arasÄ±nda gerÃ§ekleÅŸti ve OsmanlÄ± zaferiyle sonuÃ§landÄ±.",
+    "Countries": "Ãœlkeler: OsmanlÄ± Ä°mparatorluÄŸu, SafevÃ® Ä°mparatorluÄŸu",
+    "Winner": "Kazanan: OsmanlÄ± Ä°mparatorluÄŸu",
+>>>>>>> 1b71d366c9d329b8a2ed29b8cb8032720f9c39d9
     "ImageUrl": "https://raw.githubusercontent.com/Cann2000/HistoryBookData/main/Pictures/%C3%87ald%C4%B1ran.jpg"
   },
   {
     "WarName": "Preveze Deniz Muharebesi",
     "WarHistory": "1538",
+<<<<<<< HEAD
     "Information": "Preveze Deniz Muharebesi, Osmanlý Ýmparatorluðu ile Haçlý Donanmasý arasýnda gerçekleþti ve Osmanlý zaferiyle sonuçlandý.",
     "Countries": "Ülkeler: Osmanlý Ýmparatorluðu, Haçlý Donanmasý",
     "Winner": "Kazanan: Osmanlý Ýmparatorluðu",
@@ -109,6 +200,19 @@
     "Information": "Anadolu Selçuklu - Haçlý Savaþlarý, Anadolu Selçuklu Sultanlýðý ile Haçlý devletleri arasýnda gerçekleþti ve Anadolu Selçuklu Sultanlýðý'nýn baðýmsýzlýðýný korumasýný temsil eder.",
     "Countries": "Ülkeler: Anadolu Selçuklu Sultanlýðý, Haçlý Devletleri",
     "Winner": "Kazanan: Anadolu Selçuklu Sultanlýðý",
+=======
+    "Information": "Preveze Deniz Muharebesi, OsmanlÄ± Ä°mparatorluÄŸu ile HaÃ§lÄ± DonanmasÄ± arasÄ±nda gerÃ§ekleÅŸti ve OsmanlÄ± zaferiyle sonuÃ§landÄ±.",
+    "Countries": "Ãœlkeler: OsmanlÄ± Ä°mparatorluÄŸu, HaÃ§lÄ± DonanmasÄ±",
+    "Winner": "Kazanan: OsmanlÄ± Ä°mparatorluÄŸu",
+    "ImageUrl": "https://raw.githubusercontent.com/Cann2000/HistoryBookData/main/Pictures/preveze.jpg"
+  },
+  {
+    "WarName": "Anadolu SelÃ§uklu - HaÃ§lÄ± SavaÅŸlarÄ±",
+    "WarHistory": "11. ve 13. yÃ¼zyÄ±llar",
+    "Information": "Anadolu SelÃ§uklu - HaÃ§lÄ± SavaÅŸlarÄ±, Anadolu SelÃ§uklu SultanlÄ±ÄŸÄ± ile HaÃ§lÄ± devletleri arasÄ±nda gerÃ§ekleÅŸti ve Anadolu SelÃ§uklu SultanlÄ±ÄŸÄ±'nÄ±n baÄŸÄ±msÄ±zlÄ±ÄŸÄ±nÄ± korumasÄ±nÄ± temsil eder.",
+    "Countries": "Ãœlkeler: Anadolu SelÃ§uklu SultanlÄ±ÄŸÄ±, HaÃ§lÄ± Devletleri",
+    "Winner": "Kazanan: Anadolu SelÃ§uklu SultanlÄ±ÄŸÄ±",
+>>>>>>> 1b71d366c9d329b8a2ed29b8cb8032720f9c39d9
     "ImageUrl": "https://raw.githubusercontent.com/Cann2000/HistoryBookData/main/Pictures/AnadoluSel%C3%A7ukluHa%C3%A7l%C4%B1.jpg"
   }
 ]
