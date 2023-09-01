@@ -5,7 +5,7 @@
     "Information": "Yüz Yıl Savaşları, İngiltere ile Fransa arasında süren uzun bir savaştır. Asıl nedenleri arasında toprak anlaşmazlıkları ve taht kavgaları yer alır.",
     "Countries": "Ülkeler: İngiltere, Fransa",
     "Winner": "Kazanan: Yok",
-    "ImageUrl": "https://raw.githubusercontent.com/Cann2000/HistoryBookData/main/Pictures/Y%C3%BCzY%C4%B1lSava%C5%9Flar%C4%B1.jpg"
+    "ImageUrl": "https://raw.githubusercontent.com/Cann2000/HistoryBookData/main/Pictures/YuzYilSavaslari.jpg"
   },
   {
     "WarName": "Kurtuluş Savaşı",
@@ -13,7 +13,7 @@
     "Information": "Türk Kurtuluş Savaşı, Türk milletinin bağımsızlığını kazanmak için verdiği ulusal mücadeledir. Osmanlı İmparatorluğu'nun son dönemindeki yenilgilerin ardından başladı ve Türkiye Cumhuriyeti'nin kuruluşu ile sonuçlandı.",
     "Countries": "Ülkeler: Türkiye, İngiltere, Fransa, İtalya, Yunanistan",
     "Winner": "Kazanan: Türkiye",
-    "ImageUrl": "https://raw.githubusercontent.com/Cann2000/HistoryBookData/main/Pictures/Kurtulu%C5%9FSava%C5%9F%C4%B1.jpg"
+    "ImageUrl": "https://raw.githubusercontent.com/Cann2000/HistoryBookData/main/Pictures/KurtulusSavasi.jpg"
   },
   {
     "WarName": "Çanakkale Savaşı",
@@ -21,7 +21,7 @@
     "Information": "Çanakkale Savaşı, Birinci Dünya Savaşı sırasında Çanakkale Boğazı'nda gerçekleşti. Osmanlı İmparatorluğu ve İtilaf Devletleri arasında meydana geldi.",
     "Countries": "Ülkeler: Osmanlı İmparatorluğu, İngiltere, Fransa, Avustralya, Yeni Zelanda",
     "Winner": "Kazanan: Osmanlı İmparatorluğu",
-    "ImageUrl": "https://raw.githubusercontent.com/Cann2000/HistoryBookData/main/Pictures/%C3%87anakkale.png"
+    "ImageUrl": "https://raw.githubusercontent.com/Cann2000/HistoryBookData/main/Pictures/Canakkale.pngg"
   },
   {
     "WarName": "93 Harbi",
@@ -37,7 +37,7 @@
     "Information": "Balkan Savaşları, Osmanlı İmparatorluğu ile Balkan devletleri arasında gerçekleşti. İkinci Balkan Savaşı ise Balkan devletleri arasında yaşandı.",
     "Countries": "Ülkeler: Osmanlı İmparatorluğu, Sırbistan, Karadağ, Yunanistan, Bulgaristan",
     "Winner": "Kazanan: Balkan Devletleri",
-    "ImageUrl": "https://raw.githubusercontent.com/Cann2000/HistoryBookData/main/Pictures/BalkanSava%C5%9F%C4%B1.png"
+    "ImageUrl": "https://raw.githubusercontent.com/Cann2000/HistoryBookData/main/Pictures/BalkanSavasi.png"
   },
   {
     "WarName": "Malazgirt Meydan Muharebesi",
@@ -53,7 +53,7 @@
     "Information": "Kut'ül Amare Meydan Muharebesi, Birinci Dünya Savaşı sırasında Osmanlı İmparatorluğu ve Birleşik Krallık arasında gerçekleşti.",
     "Countries": "Ülkeler: Osmanlı İmparatorluğu, Birleşik Krallık",
     "Winner": "Kazanan: Osmanlı İmparatorluğu",
-    "ImageUrl": "https://raw.githubusercontent.com/Cann2000/HistoryBookData/main/Pictures/Kut%C3%BCl_Amare.jpg"
+    "ImageUrl": "https://raw.githubusercontent.com/Cann2000/HistoryBookData/main/Pictures/Kutul_Amare.jpg"
   },
   {
     "WarName": "Sakarya Meydan Muharebesi",
@@ -69,7 +69,7 @@
     "Information": "Kütahya-Eskişehir Muharebeleri, Türk Kurtuluş Savaşı sırasında gerçekleşti ve Türk ordusunun başarılı bir şekilde düşman kuvvetlerini püskürtmesini temsil eder.",
     "Countries": "Ülkeler: Türkiye, Yunanistan",
     "Winner": "Kazanan: Türkiye",
-    "ImageUrl": "https://raw.githubusercontent.com/Cann2000/HistoryBookData/main/Pictures/k%C3%BCtahya-eski%C5%9Fehir.jpg"
+    "ImageUrl": "https://raw.githubusercontent.com/Cann2000/HistoryBookData/main/Pictures/kutahya_eskisehir.jpg"
   },
   {
     "WarName": "İnebahtı Deniz Muharebesi",
@@ -77,7 +77,7 @@
     "Information": "Lepanto Deniz Muharebesi, Osmanlı İmparatorluğu ile Haçlı Donanması arasında gerçekleşti ve Osmanlı donanması için önemli bir yenilgiyi temsil eder.",
     "Countries": "Ülkeler: Osmanlı İmparatorluğu, Haçlı Donanması",
     "Winner": "Kazanan: Haçlı Donanması",
-    "ImageUrl": "https://raw.githubusercontent.com/Cann2000/HistoryBookData/main/Pictures/%C4%B0nebaht%C4%B1.jpg"
+    "ImageUrl": "https://raw.githubusercontent.com/Cann2000/HistoryBookData/main/Pictures/Inebahti.jpg"
   },
   {
     "WarName": "Mohaç Meydan Muharebesi",
@@ -85,7 +85,7 @@
     "Information": "Mohaç Meydan Muharebesi, Osmanlı İmparatorluğu ile Macar Krallığı arasında gerçekleşti ve Osmanlı zaferiyle sonuçlandı.",
     "Countries": "Ülkeler: Osmanlı İmparatorluğu, Macar Krallığı",
     "Winner": "Kazanan: Osmanlı İmparatorluğu",
-    "ImageUrl": "https://raw.githubusercontent.com/Cann2000/HistoryBookData/main/Pictures/Moha%C3%A7MeydanMuharebesi.jpg"
+    "ImageUrl": "https://raw.githubusercontent.com/Cann2000/HistoryBookData/main/Pictures/MohacMeydanMuharebesi.jpg"
   },
   {
     "WarName": "Çaldıran Meydan Muharebesi",
@@ -93,7 +93,7 @@
     "Information": "Çaldıran Meydan Muharebesi, Osmanlı İmparatorluğu ile Safevî İmparatorluğu arasında gerçekleşti ve Osmanlı zaferiyle sonuçlandı.",
     "Countries": "Ülkeler: Osmanlı İmparatorluğu, Safevî İmparatorluğu",
     "Winner": "Kazanan: Osmanlı İmparatorluğu",
-    "ImageUrl": "https://raw.githubusercontent.com/Cann2000/HistoryBookData/main/Pictures/%C3%87ald%C4%B1ran.jpg"
+    "ImageUrl": "https://raw.githubusercontent.com/Cann2000/HistoryBookData/main/Pictures/Caldiran.jpg"
   },
   {
     "WarName": "Preveze Deniz Muharebesi",
@@ -109,6 +109,6 @@
     "Information": "Anadolu Selçuklu - Haçlı Savaşları, Anadolu Selçuklu Sultanlığı ile Haçlı devletleri arasında gerçekleşti ve Anadolu Selçuklu Sultanlığı'nın bağımsızlığını korumasını temsil eder.",
     "Countries": "Ülkeler: Anadolu Selçuklu Sultanlığı, Haçlı Devletleri",
     "Winner": "Kazanan: Anadolu Selçuklu Sultanlığı",
-    "ImageUrl": "https://raw.githubusercontent.com/Cann2000/HistoryBookData/main/Pictures/AnadoluSel%C3%A7ukluHa%C3%A7l%C4%B1.jpg"
+    "ImageUrl": "https://raw.githubusercontent.com/Cann2000/HistoryBookData/main/Pictures/AnadoluSelcukluHacli.jpg"
   }
 ]
