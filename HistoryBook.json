@@ -420,6 +420,14 @@
     "Countries": "Ülkeler:  İngiltere, Fransa",
     "Winner": "Kazanan:  Yok",
     "ImageUrl": "https://raw.githubusercontent.com/Cann2000/HistoryBookData/main/Pictures/YuzYilSavaslari.jpg"
+  },
+      {
+    "WarName": "Kurtuluş Savaşı",
+    "WarHistory": "1919 - 1923",
+    "Information": "Türk Kurtuluş Savaşı, Türk milletinin bağımsızlığını kazanmak için verdiği ulusal mücadeledir. Osmanlı İmparatorluğu'nun son dönemindeki yenilgilerin ardından başladı ve Türkiye Cumhuriyeti'nin kuruluşu ile sonuçlandı.",
+    "Countries": "Ülkeler:  Türkiye, İngiltere, Fransa, İtalya, Yunanistan",
+    "Winner": "Kazanan:  Türkiye",
+    "ImageUrl": "https://raw.githubusercontent.com/Cann2000/HistoryBookData/main/Pictures/KurtulusSavasi.jpg"
   }
   
 ]
