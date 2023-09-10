@@ -1,4 +1,5 @@
-[
+{
+  "geographical_events": [
     {
       "EventName": "Pompeii Yanardağı Patlaması",
       "Date": "MS 79",
@@ -58,4 +59,5 @@
       "ImageUrl": "https://raw.githubusercontent.com/Cann2000/HistoryBookData/main/PicturesGeographicalEvents/Chernobil.png"
 
     }
-]
+  ]
+}
