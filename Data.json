@@ -174,5 +174,88 @@
       "ImageUrl": "https://raw.githubusercontent.com/Cann2000/UniverseOfInformationData/main/PicturesGeographicalEvents/Chernobil.png"
 
     }
+  ],
+  "literary_works": [
+    {
+      "work_name": "İnce Mehmed",
+      "work_type": "Roman",
+      "author": "Halit Ziya Uşaklıgil",
+      "period": "Tanzimat Dönemi",
+      "summary": "İnce Mehmed, İstanbul'un sosyal değişimini ve modernleşmesini ele alan bir roman olarak önem taşır.",
+      "ImageUrl": ""
+    },
+    {
+      "work_name": "Memleket Hikayeleri",
+      "work_type": "Hikaye",
+      "author": "Refik Halit Karay",
+      "period": "Milli Edebiyat Dönemi",
+      "summary": "Memleket Hikayeleri, Anadolu'nun günlük yaşamını ve insan ilişkilerini işleyen hikayelerden oluşur.",
+      "ImageUrl": ""
+    },
+    {
+      "work_name": "Divanü Lügati't-Türk",
+      "work_type": "Sözlük",
+      "author": "Kaşgarlı Mahmud",
+      "period": "Türk Dil Bilgisi",
+      "summary": "Divanü Lügati't-Türk, Türk dilinin ilk sözlüğü olarak kabul edilir ve dil bilgisi konularını içerir.",
+      "ImageUrl": ""
+    },
+    {
+      "work_name": "Risalet-ün Nushiyye",
+      "work_type": "Şiir",
+      "author": "Yunus Emre",
+      "period": "Tasavvuf Şiiri",
+      "summary": "Risalet-ün Nushiyye, Yunus Emre'nin tasavvufi şiirlerini içeren bir eserdir.",
+      "ImageUrl": ""
+    },
+    {
+      "work_name": "Bir Ölünün Defteri",
+      "work_type": "Hikaye",
+      "author": "Peyami Safa",
+      "period": "Cumhuriyet Dönemi",
+      "summary": "Bir Ölünün Defteri, insanın ölümle yüzleşmesini konu alan bir hikaye koleksiyonudur.",
+      "ImageUrl": ""
+    },
+    {
+      "work_name": "Divan-ı Hikmet",
+      "work_type": "Şiir",
+      "author": "Yunus Emre",
+      "period": "Tasavvuf Şiiri",
+      "summary": "Divan-ı Hikmet, Yunus Emre'nin tasavvufi şiirlerini içeren bir eserdir.",
+      "ImageUrl": ""
+    },
+    {
+      "work_name": "Kamus-ı Türki",
+      "work_type": "Sözlük",
+      "author": "Kasgarlı Mahmut",
+      "period": "Orta Türkçe",
+      "summary": "Kamus-ı Türki, Türkçenin erken dönemlerine ait bir sözlüktür ve kelime açıklamalarını içerir.",
+      "ImageUrl": ""
+    },
+    {
+      "work_name": "Yaban",
+      "work_type": "Roman",
+      "author": "Yakup Kadri Karaosmanoğlu",
+      "period": "Cumhuriyet Dönemi",
+      "summary": "Yaban, Anadolu'nun köy yaşamını ve modernleşme sürecini anlatan önemli bir romandır.",
+      "ImageUrl": ""
+    },
+    {
+      "work_name": "Cevdet Bey ve Oğulları",
+      "work_type": "Roman",
+      "author": "Halit Ziya Uşaklıgil",
+      "period": "Servet-i Fünun Dönemi",
+      "summary": "Cevdet Bey ve Oğulları, Osmanlı toplumunun bir ailesinin öyküsünü anlatan bir romandır.",
+      "ImageUrl": ""
+    },
+    {
+      "work_name": "Vatan Yahut Silistre",
+      "work_type": "Oyun",
+      "author": "Namık Kemal",
+      "period": "Tanzimat Dönemi",
+      "summary": "Vatan Yahut Silistre, Osmanlı-Rus savaşını konu alan önemli bir tiyatro eseridir.",
+      "ImageUrl": ""
+    }
+
   ]
 }
