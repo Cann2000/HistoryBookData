@@ -6,7 +6,7 @@
       "Information": "Yüz Yıl Savaşları, İngiltere ile Fransa arasında süren uzun bir savaştır. Asıl nedenleri arasında toprak anlaşmazlıkları ve taht kavgaları yer alır.",
       "Countries": "Ülkeler:  İngiltere, Fransa",
       "Winner": "Kazanan:  Yok",
-      "ImageUrl": "https://raw.githubusercontent.com/Cann2000/HistoryBookData/main/Pictures/YuzYilSavaslari.jpg"
+      "ImageUrl": "https://raw.githubusercontent.com/Cann2000/UniverseOfInformationData/main/PicturesHistory/YuzYilSavaslari.jpg"
     },
     {
       "WarName": "Kurtuluş Savaşı",
@@ -14,7 +14,7 @@
       "Information": "Türk Kurtuluş Savaşı, Türk milletinin bağımsızlığını kazanmak için verdiği ulusal mücadeledir. Osmanlı İmparatorluğu'nun son dönemindeki yenilgilerin ardından başladı ve Türkiye Cumhuriyeti'nin kuruluşu ile sonuçlandı.",
       "Countries": "Ülkeler:  Türkiye, İngiltere, Fransa, İtalya, Yunanistan",
       "Winner": "Kazanan:  Türkiye",
-      "ImageUrl": "https://raw.githubusercontent.com/Cann2000/HistoryBookData/main/Pictures/KurtulusSavasi.jpg"
+      "ImageUrl": "https://raw.githubusercontent.com/Cann2000/UniverseOfInformationData/main/PicturesHistory/KurtulusSavasi.jpg"
     },
     {
       "WarName": "Çanakkale Savaşı",
@@ -22,7 +22,7 @@
       "Information": "Çanakkale Savaşı, Birinci Dünya Savaşı sırasında Çanakkale Boğazı'nda gerçekleşti. Osmanlı İmparatorluğu ve İtilaf Devletleri arasında meydana geldi.",
       "Countries": "Ülkeler:  Osmanlı İmparatorluğu, İngiltere, Fransa, Avustralya, Yeni Zelanda",
       "Winner": "Kazanan:  Osmanlı İmparatorluğu",
-      "ImageUrl": "https://raw.githubusercontent.com/Cann2000/HistoryBookData/main/Pictures/Canakkale.png"
+      "ImageUrl": "https://raw.githubusercontent.com/Cann2000/UniverseOfInformationData/main/PicturesHistory/Canakkale.png"
     },
     {
       "WarName": "93 Harbi",
@@ -30,7 +30,7 @@
       "Information": "93 Harbi, Osmanlı İmparatorluğu ve Rus İmparatorluğu arasında gerçekleşti.",
       "Countries": "Ülkeler:  Osmanlı İmparatorluğu, Rus İmparatorluğu",
       "Winner": "Kazanan:  Rus İmparatorluğu",
-      "ImageUrl": "https://raw.githubusercontent.com/Cann2000/HistoryBookData/main/Pictures/93Harbi.jpg"
+      "ImageUrl": "https://raw.githubusercontent.com/Cann2000/UniverseOfInformationData/main/PicturesHistory/93Harbi.jpg"
     },
     {
       "WarName": "Balkan Savaşları",
@@ -38,7 +38,7 @@
       "Information": "Balkan Savaşları, Osmanlı İmparatorluğu ile Balkan devletleri arasında gerçekleşti. İkinci Balkan Savaşı ise Balkan devletleri arasında yaşandı.",
       "Countries": "Ülkeler:  Osmanlı İmparatorluğu, Sırbistan, Karadağ, Yunanistan, Bulgaristan",
       "Winner": "Kazanan:  Balkan Devletleri",
-      "ImageUrl": "https://raw.githubusercontent.com/Cann2000/HistoryBookData/main/Pictures/BalkanSavasi.png"
+      "ImageUrl": "https://raw.githubusercontent.com/Cann2000/UniverseOfInformationData/main/PicturesHistory/BalkanSavasi.png"
     },
     {
       "WarName": "Malazgirt Meydan Muharebesi",
@@ -46,7 +46,7 @@
       "Information": "Malazgirt Meydan Muharebesi, Selçuklu Sultanı Alp Arslan ve Bizans İmparatoru IV. Romanos Diogenes arasında gerçekleşti ve Türklerin Anadolu'ya yayılmasını hızlandırdı.",
       "Countries": "Ülkeler:  Selçuklu Sultanlığı, Bizans İmparatorluğu",
       "Winner": "Kazanan: Selçuklu Sultanlığı",
-      "ImageUrl": "https://raw.githubusercontent.com/Cann2000/HistoryBookData/main/Pictures/Malazgirt.jpg"
+      "ImageUrl": "https://raw.githubusercontent.com/Cann2000/UniverseOfInformationData/main/PicturesHistory/Malazgirt.jpg"
     },
     {
       "WarName": "Kut'ül Amare Meydan Muharebesi",
@@ -54,7 +54,7 @@
       "Information": "Kut'ül Amare Meydan Muharebesi, Birinci Dünya Savaşı sırasında Osmanlı İmparatorluğu ve Birleşik Krallık arasında gerçekleşti.",
       "Countries": "Ülkeler:  Osmanlı İmparatorluğu, Birleşik Krallık",
       "Winner": "Kazanan:  Osmanlı İmparatorluğu",
-      "ImageUrl": "https://raw.githubusercontent.com/Cann2000/HistoryBookData/main/Pictures/Kutul_Amare.jpg"
+      "ImageUrl": "https://raw.githubusercontent.com/Cann2000/UniverseOfInformationData/main/PicturesHistory/Kutul_Amare.jpg"
     },
     {
       "WarName": "Sakarya Meydan Muharebesi",
@@ -62,7 +62,7 @@
       "Information": "Sakarya Meydan Muharebesi, Türk Kurtuluş Savaşı sırasında gerçekleşti ve Türk milletinin bağımsızlığını kazanma mücadelesinin önemli bir dönüm noktasıdır.",
       "Countries": "Ülkeler:  Türkiye, Yunanistan",
       "Winner": "Kazanan:  Türkiye",
-      "ImageUrl": "https://raw.githubusercontent.com/Cann2000/HistoryBookData/main/Pictures/SakaryaMeydanMuharebesi.jpg"
+      "ImageUrl": "https://raw.githubusercontent.com/Cann2000/UniverseOfInformationData/main/PicturesHistory/SakaryaMeydanMuharebesi.jpg"
     },
     {
       "WarName": "Kütahya-Eskişehir Muharebeleri",
@@ -70,7 +70,7 @@
       "Information": "Kütahya-Eskişehir Muharebeleri, Türk Kurtuluş Savaşı sırasında gerçekleşti ve Türk ordusunun başarılı bir şekilde düşman kuvvetlerini püskürtmesini temsil eder.",
       "Countries": "Ülkeler:  Türkiye, Yunanistan",
       "Winner": "Kazanan:  Türkiye",
-      "ImageUrl": "https://raw.githubusercontent.com/Cann2000/HistoryBookData/main/Pictures/kutahya_eskisehir.jpg"
+      "ImageUrl": "https://raw.githubusercontent.com/Cann2000/UniverseOfInformationData/main/PicturesHistory/kutahya_eskisehir.jpg"
     },
     {
       "WarName": "İnebahtı Deniz Muharebesi",
@@ -78,7 +78,7 @@
       "Information": "Lepanto Deniz Muharebesi, Osmanlı İmparatorluğu ile Haçlı Donanması arasında gerçekleşti ve Osmanlı donanması için önemli bir yenilgiyi temsil eder.",
       "Countries": "Ülkeler:  Osmanlı İmparatorluğu, Haçlı Donanması",
       "Winner": "Kazanan:  Haçlı Donanması",
-      "ImageUrl": "https://raw.githubusercontent.com/Cann2000/HistoryBookData/main/Pictures/Inebahti.jpg"
+      "ImageUrl": "https://raw.githubusercontent.com/Cann2000/UniverseOfInformationData/main/PicturesHistory/Inebahti.jpg"
     },
     {
       "WarName": "Mohaç Meydan Muharebesi",
@@ -86,7 +86,7 @@
       "Information": "Mohaç Meydan Muharebesi, Osmanlı İmparatorluğu ile Macar Krallığı arasında gerçekleşti ve Osmanlı zaferiyle sonuçlandı.",
       "Countries": "Ülkeler:  Osmanlı İmparatorluğu, Macar Krallığı",
       "Winner": "Kazanan:  Osmanlı İmparatorluğu",
-      "ImageUrl": "https://raw.githubusercontent.com/Cann2000/HistoryBookData/main/Pictures/MohacMeydanMuharebesi.jpg"
+      "ImageUrl": "https://raw.githubusercontent.com/Cann2000/UniverseOfInformationData/main/PicturesHistory/MohacMeydanMuharebesi.jpg"
     },
     {
       "WarName": "Çaldıran Meydan Muharebesi",
@@ -94,7 +94,7 @@
       "Information": "Çaldıran Meydan Muharebesi, Osmanlı İmparatorluğu ile Safevî İmparatorluğu arasında gerçekleşti ve Osmanlı zaferiyle sonuçlandı.",
       "Countries": "Ülkeler:  Osmanlı İmparatorluğu, Safevî İmparatorluğu",
       "Winner": "Kazanan:  Osmanlı İmparatorluğu",
-      "ImageUrl": "https://raw.githubusercontent.com/Cann2000/HistoryBookData/main/Pictures/Caldiran.jpg"
+      "ImageUrl": "https://raw.githubusercontent.com/Cann2000/UniverseOfInformationData/main/PicturesHistory/Caldiran.jpg"
     },
     {
       "WarName": "Preveze Deniz Muharebesi",
@@ -102,7 +102,7 @@
       "Information": "Preveze Deniz Muharebesi, Osmanlı İmparatorluğu ile Haçlı Donanması arasında gerçekleşti ve Osmanlı zaferiyle sonuçlandı.",
       "Countries": "Ülkeler:  Osmanlı İmparatorluğu, Haçlı Donanması",
       "Winner": "Kazanan:  Osmanlı İmparatorluğu",
-      "ImageUrl": "https://raw.githubusercontent.com/Cann2000/HistoryBookData/main/Pictures/preveze.jpg"
+      "ImageUrl": "https://raw.githubusercontent.com/Cann2000/UniverseOfInformationData/main/PicturesHistory/Preveze.jpg"
     },
     {
       "WarName": "Anadolu Selçuklu - Haçlı Savaşları",
@@ -110,7 +110,7 @@
       "Information": "Anadolu Selçuklu - Haçlı Savaşları, Anadolu Selçuklu Sultanlığı ile Haçlı devletleri arasında gerçekleşti ve Anadolu Selçuklu Sultanlığı'nın bağımsızlığını korumasını temsil eder.",
       "Countries": "Ülkeler:  Anadolu Selçuklu Sultanlığı, Haçlı Devletleri",
       "Winner": "Kazanan:  Anadolu Selçuklu Sultanlığı",
-      "ImageUrl": "https://raw.githubusercontent.com/Cann2000/HistoryBookData/main/Pictures/AnadoluSelcukluHacli.jpg"
+      "ImageUrl": "https://raw.githubusercontent.com/Cann2000/UniverseOfInformationData/main/PicturesHistory/AnadoluSelcukluHacli.jpg"
     }
 
   ],
@@ -120,14 +120,14 @@
       "Date": "MS 79",
       "Location": "Yer: Pompeii, Roma İmparatorluğu",
       "Description": "Vesuvius Yanardağı'nın patlaması sonucu Pompeii şehri lav ve kül altında kaldı. Bu felaket, antik Roma dönemi yaşamını kesintiye uğrattı ve birçok insanın hayatını kaybetmesine neden oldu.",
-      "ImageUrl": "https://raw.githubusercontent.com/Cann2000/HistoryBookData/main/PicturesGeographicalEvents/pompeii.jpg"
+      "ImageUrl": "https://raw.githubusercontent.com/Cann2000/UniverseOfInformationData/main/PicturesGeographicalEvents/pompeii.jpg"
     },
     {
       "EventName": "Büyük Roma Yangını",
       "Date": "18-23 Temmuz MS 64",
       "Location": "Yer: Roma İmparatorluğu",
       "Description": "Roma'da meydana gelen büyük yangın, şehri tahrip etti ve büyük kayıplara neden oldu. Yangın, imparatorluk tarihini etkiledi ve Nero'nun hükümeti sırasında gerçekleşti.",
-      "ImageUrl": "https://raw.githubusercontent.com/Cann2000/HistoryBookData/main/PicturesGeographicalEvents/FireofRoma.jpg"
+      "ImageUrl": "https://raw.githubusercontent.com/Cann2000/UniverseOfInformationData/main/PicturesGeographicalEvents/FireofRoma.jpg"
     },
 
     {
@@ -135,28 +135,28 @@
       "Date": "M.Ö. 7. yüzyıl - M.S. 17. yüzyıl",
       "Location": "Yer: Çin",
       "Description": "Çin Seddi, birçok hanedanlık döneminde inşa edildi ve dünyanın en büyük savunma yapısı olarak kabul edilir. Çin tarihinde kilit bir olaydır.",
-      "ImageUrl": "https://raw.githubusercontent.com/Cann2000/HistoryBookData/main/PicturesGeographicalEvents/TheGreatWallofChina.png"
+      "ImageUrl": "https://raw.githubusercontent.com/Cann2000/UniverseOfInformationData/main/PicturesGeographicalEvents/TheGreatWallofChina.png"
     },
     {
       "EventName": "Mayflower'ın Yolculuğu",
       "Date": "16 Eylül 1620",
       "Location": "Yer: Amerika",
       "Description": "Mayflower gemisi, Pilgrimlerin Amerika'ya göç ettiği önemli bir yolculuğun simgesidir ve Amerika'nın erken tarihini şekillendirdi.",
-      "ImageUrl": "https://raw.githubusercontent.com/Cann2000/HistoryBookData/main/PicturesGeographicalEvents/MayFlower.jpg"
+      "ImageUrl": "https://raw.githubusercontent.com/Cann2000/UniverseOfInformationData/main/PicturesGeographicalEvents/MayFlower.jpg"
     },
     {
       "EventName": "Antik Mısır Piramitlerinin İnşası",
       "Date": "M.Ö. 27. yüzyıl",
       "Location": "Yer: Mısır",
       "Description": "Antik Mısır piramitlerinin inşası, antik dünyanın en büyük mühendislik harikalarından birini oluşturdu ve Mısır'ın tarihini şekillendirdi.",
-      "ImageUrl": "https://raw.githubusercontent.com/Cann2000/HistoryBookData/main/PicturesGeographicalEvents/MisirPiramit.jpg"
+      "ImageUrl": "https://raw.githubusercontent.com/Cann2000/UniverseOfInformationData/main/PicturesGeographicalEvents/MisirPiramit.jpg"
     },
     {
       "EventName": "Asma Bahçeler (Babil Asma Bahçeleri)",
       "Date": "M.Ö. 6. yüzyıl",
       "Location": "Yer: Babil, Mezopotamya",
       "Description": "Babil Asma Bahçeleri, eşsiz yapısı ve yüzen bahçeleriyle ünlüdür ve Antik Yedi Harika'dan biri olarak kabul edilir.",
-      "ImageUrl": "https://raw.githubusercontent.com/Cann2000/HistoryBookData/main/PicturesGeographicalEvents/babil.jpg"
+      "ImageUrl": "https://raw.githubusercontent.com/Cann2000/UniverseOfInformationData/main/PicturesGeographicalEvents/babil.jpg"
     },
 
     {
@@ -164,15 +164,98 @@
       "Date": "12 Ekim 1492",
       "Location": "Yer: Karayipler",
       "Description": "Kristof Kolomb'un Amerika'ya ulaşması, Yeni Dünya'nın Avrupalılar tarafından keşfedilmesinin başlangıcıydı ve büyük coğrafi keşiflerin başlangıcını işaret eder.",
-      "ImageUrl": "https://raw.githubusercontent.com/Cann2000/HistoryBookData/main/PicturesGeographicalEvents/kolomb.jpg"
+      "ImageUrl": "https://raw.githubusercontent.com/Cann2000/UniverseOfInformationData/main/PicturesGeographicalEvents/kolomb.jpg"
     },
     {
       "EventName": "Chernobyl Nükleer Felaketi",
       "Date": "1986",
       "Location": "Yer: Ukrayna, Sovyetler Birliği",
       "Description": "Chernobyl nükleer felaketi, tarihin en kötü nükleer santral kazalarından biriydi ve büyük çevresel etkilere yol açtı.",
-      "ImageUrl": "https://raw.githubusercontent.com/Cann2000/HistoryBookData/main/PicturesGeographicalEvents/Chernobil.png"
+      "ImageUrl": "https://raw.githubusercontent.com/Cann2000/UniverseOfInformationData/main/PicturesGeographicalEvents/Chernobil.png"
 
     }
+  ],
+  "literary_works": [
+    {
+      "work_name": "İnce Mehmed",
+      "work_type": "Roman",
+      "author": "Halit Ziya Uşaklıgil",
+      "period": "Tanzimat Dönemi",
+      "summary": "İnce Mehmed, İstanbul'un sosyal değişimini ve modernleşmesini ele alan bir roman olarak önem taşır.",
+      "ImageUrl": ""
+    },
+    {
+      "work_name": "Memleket Hikayeleri",
+      "work_type": "Hikaye",
+      "author": "Refik Halit Karay",
+      "period": "Milli Edebiyat Dönemi",
+      "summary": "Memleket Hikayeleri, Anadolu'nun günlük yaşamını ve insan ilişkilerini işleyen hikayelerden oluşur.",
+      "ImageUrl": ""
+    },
+    {
+      "work_name": "Divanü Lügati't-Türk",
+      "work_type": "Sözlük",
+      "author": "Kaşgarlı Mahmud",
+      "period": "Türk Dil Bilgisi",
+      "summary": "Divanü Lügati't-Türk, Türk dilinin ilk sözlüğü olarak kabul edilir ve dil bilgisi konularını içerir.",
+      "ImageUrl": ""
+    },
+    {
+      "work_name": "Risalet-ün Nushiyye",
+      "work_type": "Şiir",
+      "author": "Yunus Emre",
+      "period": "Tasavvuf Şiiri",
+      "summary": "Risalet-ün Nushiyye, Yunus Emre'nin tasavvufi şiirlerini içeren bir eserdir.",
+      "ImageUrl": ""
+    },
+    {
+      "work_name": "Bir Ölünün Defteri",
+      "work_type": "Hikaye",
+      "author": "Peyami Safa",
+      "period": "Cumhuriyet Dönemi",
+      "summary": "Bir Ölünün Defteri, insanın ölümle yüzleşmesini konu alan bir hikaye koleksiyonudur.",
+      "ImageUrl": ""
+    },
+    {
+      "work_name": "Divan-ı Hikmet",
+      "work_type": "Şiir",
+      "author": "Yunus Emre",
+      "period": "Tasavvuf Şiiri",
+      "summary": "Divan-ı Hikmet, Yunus Emre'nin tasavvufi şiirlerini içeren bir eserdir.",
+      "ImageUrl": ""
+    },
+    {
+      "work_name": "Kamus-ı Türki",
+      "work_type": "Sözlük",
+      "author": "Kasgarlı Mahmut",
+      "period": "Orta Türkçe",
+      "summary": "Kamus-ı Türki, Türkçenin erken dönemlerine ait bir sözlüktür ve kelime açıklamalarını içerir.",
+      "ImageUrl": ""
+    },
+    {
+      "work_name": "Yaban",
+      "work_type": "Roman",
+      "author": "Yakup Kadri Karaosmanoğlu",
+      "period": "Cumhuriyet Dönemi",
+      "summary": "Yaban, Anadolu'nun köy yaşamını ve modernleşme sürecini anlatan önemli bir romandır.",
+      "ImageUrl": ""
+    },
+    {
+      "work_name": "Cevdet Bey ve Oğulları",
+      "work_type": "Roman",
+      "author": "Halit Ziya Uşaklıgil",
+      "period": "Servet-i Fünun Dönemi",
+      "summary": "Cevdet Bey ve Oğulları, Osmanlı toplumunun bir ailesinin öyküsünü anlatan bir romandır.",
+      "ImageUrl": ""
+    },
+    {
+      "work_name": "Vatan Yahut Silistre",
+      "work_type": "Oyun",
+      "author": "Namık Kemal",
+      "period": "Tanzimat Dönemi",
+      "summary": "Vatan Yahut Silistre, Osmanlı-Rus savaşını konu alan önemli bir tiyatro eseridir.",
+      "ImageUrl": ""
+    }
+
   ]
 }
