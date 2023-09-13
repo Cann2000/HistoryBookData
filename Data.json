@@ -176,85 +176,78 @@
     }
   ],
   "literary_works": [
+
     {
-      "work_name": "İnce Mehmed",
-      "work_type": "Roman",
-      "author": "Halit Ziya Uşaklıgil",
-      "period": "Tanzimat Dönemi",
-      "summary": "İnce Mehmed, İstanbul'un sosyal değişimini ve modernleşmesini ele alan bir roman olarak önem taşır.",
-      "ImageUrl": ""
+      "work_name": "Divanü Lügati't-Türk",
+      "work_type": "Sözlük",
+      "author": "Kaşgarlı Mahmud",
+      "period": "Geçiş Dönemi",
+      "summary": "Divanü Lügati't-Türk, Türk dilinin ilk sözlüğü olarak kabul edilir. Eser, Orta Asya Türkçesi'nin önemli bir kaynağıdır ve Türk dil bilgisi konularını içerir. Türkçe kelimelerin açıklamalarını ve kullanıldığı bağlamları sunar.",
+      "ImageUrl": "https://raw.githubusercontent.com/Cann2000/UniverseOfInformationData/main/LiteratuePictures/KasgarliMahmud.jpg"
     },
     {
       "work_name": "Memleket Hikayeleri",
       "work_type": "Hikaye",
       "author": "Refik Halit Karay",
       "period": "Milli Edebiyat Dönemi",
-      "summary": "Memleket Hikayeleri, Anadolu'nun günlük yaşamını ve insan ilişkilerini işleyen hikayelerden oluşur.",
-      "ImageUrl": ""
-    },
-    {
-      "work_name": "Divanü Lügati't-Türk",
-      "work_type": "Sözlük",
-      "author": "Kaşgarlı Mahmud",
-      "period": "Türk Dil Bilgisi",
-      "summary": "Divanü Lügati't-Türk, Türk dilinin ilk sözlüğü olarak kabul edilir ve dil bilgisi konularını içerir.",
-      "ImageUrl": ""
+      "summary": "Memleket Hikayeleri, Anadolu'nun günlük yaşamını ve insan ilişkilerini işleyen bir hikaye koleksiyonudur. Eser, köylerde, kasabalarda ve şehirlerde geçen farklı hikayelerden oluşur. Bu hikayeler, Anadolu'nun kültürel zenginliği ve toplumsal dinamiklerini yansıtır.",
+      "ImageUrl": "https://raw.githubusercontent.com/Cann2000/UniverseOfInformationData/main/LiteratuePictures/RefikHalidKaray.png"
     },
     {
       "work_name": "Risalet-ün Nushiyye",
       "work_type": "Şiir",
       "author": "Yunus Emre",
-      "period": "Tasavvuf Şiiri",
-      "summary": "Risalet-ün Nushiyye, Yunus Emre'nin tasavvufi şiirlerini içeren bir eserdir.",
-      "ImageUrl": ""
+      "period": "Divan Edebiyatı",
+      "summary": "Risalet-ün Nushiyye, ünlü Türk şairi Yunus Emre'nin tasavvufi şiirlerini içeren bir eserdir. Bu şiirler, aşk, sevgi, insanlık, ve Tanrı'ya olan yakın ilişki gibi tasavvufi konuları işler.",
+      "ImageUrl": "https://raw.githubusercontent.com/Cann2000/UniverseOfInformationData/main/LiteratuePictures/YunusEmre.jpg"
+    },
+    {
+      "work_name": "Siham-ı Kaza",
+      "work_type": "Şiir",
+      "author": "Nef'i",
+      "period": "Divan Edebiyatı",
+      "summary": "Nef'i'nin Siham-ı Kazası, Divan edebiyatının önemli eserlerinden biridir. Şairin aşk ve sevgi temalarını işlediği bu şiir, güzellik, aşk ve tutkunun anlatıldığı bir Divan şiiri örneğidir.",
+      "ImageUrl": "https://raw.githubusercontent.com/Cann2000/UniverseOfInformationData/main/LiteratuePictures/Nefi.jpg"
     },
     {
       "work_name": "Bir Ölünün Defteri",
       "work_type": "Hikaye",
-      "author": "Peyami Safa",
+      "author": "Halit Ziya Uşaklıgil",
+      "period": "Servet-i Fünun Dönemi",
+      "summary": "Bir Ölünün Defteri, insanın ölümle yüzleşmesini ve ölümün insan yaşamındaki etkilerini konu alan bir hikaye koleksiyonudur. Eser, ölümün varlığını ve insanların bu gerçekle nasıl başa çıktığını inceler.",
+      "ImageUrl": "https://raw.githubusercontent.com/Cann2000/UniverseOfInformationData/main/LiteratuePictures/HalitZiyaUsakligil.png"
+    },
+    {
+      "work_name": "Hanımın Çiftliği",
+      "work_type": "Roman",
+      "author": "Orhan Kemal",
       "period": "Cumhuriyet Dönemi",
-      "summary": "Bir Ölünün Defteri, insanın ölümle yüzleşmesini konu alan bir hikaye koleksiyonudur.",
-      "ImageUrl": ""
-    },
-    {
-      "work_name": "Divan-ı Hikmet",
-      "work_type": "Şiir",
-      "author": "Yunus Emre",
-      "period": "Tasavvuf Şiiri",
-      "summary": "Divan-ı Hikmet, Yunus Emre'nin tasavvufi şiirlerini içeren bir eserdir.",
-      "ImageUrl": ""
-    },
-    {
-      "work_name": "Kamus-ı Türki",
-      "work_type": "Sözlük",
-      "author": "Kasgarlı Mahmut",
-      "period": "Orta Türkçe",
-      "summary": "Kamus-ı Türki, Türkçenin erken dönemlerine ait bir sözlüktür ve kelime açıklamalarını içerir.",
-      "ImageUrl": ""
+      "summary": "Hanımın Çiftliği, Cumhuriyet Dönemi Türk edebiyatının önemli eserlerinden biridir ve Türk köy yaşamını, köylülerin günlük yaşantısını ve toplumsal ilişkilerini detaylı bir şekilde ele alır.",
+      "ImageUrl": "https://raw.githubusercontent.com/Cann2000/UniverseOfInformationData/main/LiteratuePictures/OrhanKemal.jpg"
     },
     {
       "work_name": "Yaban",
       "work_type": "Roman",
       "author": "Yakup Kadri Karaosmanoğlu",
       "period": "Cumhuriyet Dönemi",
-      "summary": "Yaban, Anadolu'nun köy yaşamını ve modernleşme sürecini anlatan önemli bir romandır.",
-      "ImageUrl": ""
+      "summary": "Yaban, Anadolu'nun köy yaşamını ve modernleşme sürecini anlatan önemli bir romandır. Eser, köyden şehre geçiş, geleneksel ve modern değerler arasındaki çatışma ve değişimin yarattığı zorlukları ele alır.",
+      "ImageUrl": "https://raw.githubusercontent.com/Cann2000/UniverseOfInformationData/main/LiteratuePictures/YakupKadriKaraosmanoglu.png"
     },
     {
-      "work_name": "Cevdet Bey ve Oğulları",
+      "work_name": "Ateşten Gömlek",
       "work_type": "Roman",
-      "author": "Halit Ziya Uşaklıgil",
-      "period": "Servet-i Fünun Dönemi",
-      "summary": "Cevdet Bey ve Oğulları, Osmanlı toplumunun bir ailesinin öyküsünü anlatan bir romandır.",
-      "ImageUrl": ""
+      "author": "Halide Edib Adıvar",
+      "period": "Milli Edebiyat Dönemi",
+      "summary": "Halide Edib Adıvar'ın 'Ateşten Gömlek' adlı romanı, Türk Kurtuluş Savaşı dönemindeki olayları ve duygusal ilişkileri işler. Milli Edebiyat akımının önemli eserlerinden biridir.",
+      "ImageUrl": "https://raw.githubusercontent.com/Cann2000/UniverseOfInformationData/main/LiteratuePictures/HalideEdipAdivar.png"
     },
     {
       "work_name": "Vatan Yahut Silistre",
       "work_type": "Oyun",
       "author": "Namık Kemal",
       "period": "Tanzimat Dönemi",
-      "summary": "Vatan Yahut Silistre, Osmanlı-Rus savaşını konu alan önemli bir tiyatro eseridir.",
-      "ImageUrl": ""
+      "summary": "Vatan Yahut Silistre, Osmanlı-Rus savaşını konu alan önemli bir tiyatro eseridir. Bu oyun, milliyetçilik ve vatanseverlik temasını işler ve Tanzimat Dönemi'nin önemli eserlerinden biridir.",
+      "ImageUrl": "https://raw.githubusercontent.com/Cann2000/UniverseOfInformationData/main/LiteratuePictures/NamikKemal.jpg"
     }
 
   ]
